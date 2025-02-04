@@ -1,27 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="280fbee4-2d09-4dcc-a789-c701af1ecb3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PongGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PongGame.iml" afterDir="false" />
+    <list default="true" id="280fbee4-2d09-4dcc-a789-c701af1ecb3d" name="Changes" comment="created the turtle">
+      <change afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nadir-Kutluozen/PongGame.git",
-    "accountId": "660d159e-2995-48a0-8b55-8ee94d8d1790"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nadir-Kutluozen&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nadir-Kutluozen/PongGame.git&quot;,
+    &quot;accountId&quot;: &quot;660d159e-2995-48a0-8b55-8ee94d8d1790&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2sNMS9pFHCWKEg3I7QllzyhyxxJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,9 +49,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ball.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.paddle.executor": "Run",
+    "Python.scoreboard.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Nadir Kutluozen/PycharmProjects/Snake"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,6 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738291575511</updated>
     </task>
+    <task id="LOCAL-00001" summary="created the turtle">
+      <option name="closed" value="true" />
+      <created>1738291906196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738291906196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created the turtle" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the turtle" />
   </component>
 </project>
